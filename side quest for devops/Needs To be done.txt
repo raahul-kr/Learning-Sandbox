@@ -1,0 +1,6 @@
+Rate limiting - ---
+caching -- radis or rabbit nq
+message queue - rabbit nq and all the microservices
+implement in projects.
+
+make a docs file for the DEVOPS

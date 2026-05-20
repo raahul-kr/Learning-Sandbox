@@ -90,3 +90,6 @@ console.log(instructor);
     {},
     {}
 ]
+
+// random user api : https://randomuser.me/
+// json formater : https://jsonformatter.org/

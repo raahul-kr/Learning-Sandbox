@@ -1,0 +1,15 @@
+## Javascript Execution Context
+
+1st is the Global Execution Context
+2nd is the Function Execution Context 
+3rd is the Eval Execution Context // not that much imp
+
+{  }  --->   Memory Creation Phase
+      --->   Execution Phase
+
+So in simple terms we can say that there are alomost three phase for the js code Execution
+1st --> Global Execution
+2nd --> Memory Phase
+3rd --> Exection Phase
+
+one more imp thing that is the `CALL STACK`  use this using console -> sources -> code snippet

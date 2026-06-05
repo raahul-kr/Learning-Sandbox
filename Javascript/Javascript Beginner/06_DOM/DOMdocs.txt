@@ -33,4 +33,5 @@ type: document.querySelector('h2')
             turnGreen.style.backgroundColor = "green"
             turnGreen.style.padding = "10px"
 
+note: learn about document.querySelectorAll
 

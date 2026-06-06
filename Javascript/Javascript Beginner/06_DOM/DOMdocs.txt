@@ -34,4 +34,4 @@ type: document.querySelector('h2')
             turnGreen.style.padding = "10px"
 
 note: learn about document.querySelectorAll
-
+note : learn more about noedlist and HTML Collection 
